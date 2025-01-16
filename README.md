@@ -1,6 +1,6 @@
 # YouTube Assistant
 
-![YouTube Assistant](<image-url-here>) <!-- Replace <image-url-here> with the actual image URL -->
+![YouTube Assistant](<YouTube-Assistant.png>) <!-- Replace <image-url-here> with the actual image URL -->
 
 YouTube Assistant is a web application that answers questions about YouTube videos by analyzing their transcripts. Built using Streamlit, LangChain, and OpenAI, this tool allows users to input a YouTube video URL and ask questions about its content.
 
